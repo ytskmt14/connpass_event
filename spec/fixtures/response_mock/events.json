@@ -1,0 +1,31 @@
+{
+    "events": [
+        {
+            "event_id" : 1,
+            "title": "BPStudy#56",
+            "catch": "株式会社ビープラウドが主催するWeb系技術討論の会",
+            "description": "今回は「Python プロフェッショナル　プログラミング」執筆プロジェクトの継続的ビルドについて、お話しして頂きます。",
+            "event_url": "https://connpass.com/event/364/",
+            "hash_tag": "bpstudy",
+            "started_at": "2012-04-17T18:30:00+09:00",
+            "ended_at": "2012-04-17T20:30:00+09:00",
+            "limit": 80,
+            "event_type": "participation",
+            "series": {
+                "id": 1,
+                "title": "BPStudy",
+                "url": "https://connpass.com/series/1/"
+            },
+            "address": "東京都豊島区東池袋1-7-12",
+            "place": "BPオフィス (日産ビルディング7F)",
+            "lat": 35.680236100000,
+            "lon": 139.701308500000,
+            "owner_id": 8,
+            "owner_nickname": "haru860",
+            "owner_display_name": "佐藤 治夫",
+            "accepted": 80,
+            "waiting": 15,
+            "updated_at": "2012-03-20T12:07:32+09:00"
+        }
+    ]
+}
